@@ -4,7 +4,7 @@
 
 I build end-to-end LLM applications — prompt design, structured outputs, tool use, MCP, and the full React + Supabase stack underneath. Daily user of Claude Code. Three commercial apps in production.
 
-📍 Chengdu, China · Remote-ready · Open to relocation with sponsorship
+📍 Morocco · Remote-ready · Open to relocation with sponsorship
 🌐 EN · FR · AR (native) · 中文 HSK4 — built for cross-cultural product roles into MENA & francophone Africa
 
 ---
