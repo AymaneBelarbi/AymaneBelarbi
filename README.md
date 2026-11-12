@@ -1,34 +1,52 @@
+![Aymane / Engineering — Building useful systems. AI, backend, product.](assets/header.gif)
+
 # Aymane Ait Belarbi
 
-**AI and Python engineer · LLM applications · Backend systems**
+**AI & Python engineer** building LLM applications, backend systems, and products people can use.
 
-I build software from the data layer to the user interface, with a focus on retrieval, AI agents, and reliable production workflows. My work spans Python APIs, PostgreSQL, TypeScript, and applications that integrate language models.
+I work across the stack—from PostgreSQL and APIs to user interfaces—with a focus on retrieval, agents, evaluation, and reliable production workflows.
 
-## Selected engineering work
+[LinkedIn](https://www.linkedin.com/in/aymane-aitbelarbi/) &nbsp;·&nbsp; [Email](mailto:aymanesaid76@gmail.com) &nbsp;·&nbsp; Morocco · Open to remote and international roles
 
-### [ClaimCheck](https://github.com/AymaneBelarbi/ClaimCheck)
-An insurance-claim intake prototype that combines document extraction, policy-version-aware retrieval, and an MCP-based adjuster agent. Includes a reproducible demo, stage-level evaluations, and a documented agent-faithfulness failure.
+---
 
-**Python · FastAPI · PostgreSQL · pgvector · Docker · MCP**
+## Selected work
 
-### [Construction RAG](https://github.com/AymaneBelarbi/construction-rag)
-A question-answering prototype for construction records. Hybrid search, structured queries, deterministic calculations, and evidence checks help answer questions over related project documents. The repository documents evaluation results and the system's limits.
+### [ClaimCheck ↗](https://github.com/AymaneBelarbi/ClaimCheck)
+**Document AI · RAG · Evaluation**
 
-**Python · PostgreSQL · pgvector · Hybrid search · Evaluation**
+An insurance-claim intake prototype combining document extraction, policy-version-aware retrieval, and an MCP-based adjuster agent. Includes a reproducible demo, stage-level evaluations, and a documented agent-faithfulness failure.
 
-### [ReelRecs](https://github.com/AymaneBelarbi/reelrecs)
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Docker` `MCP`
+
+### [Construction RAG ↗](https://github.com/AymaneBelarbi/construction-rag)
+**Retrieval · Evidence · Deterministic checks**
+
+A question-answering prototype for construction records. Hybrid search, structured queries, calculations, and evidence checks help answer questions over related project documents. The repository documents evaluation results and system limits.
+
+`Python` `PostgreSQL` `pgvector` `Hybrid search`
+
+### [ReelRecs ↗](https://github.com/AymaneBelarbi/reelrecs)
+**Search · Ranking · Cited answers**
+
 A movie-recommendation chatbot exploring hybrid retrieval, reciprocal rank fusion, reranking, and cited answers. An engineering case study with offline tests; a live end-to-end evaluation is still pending.
 
-**JavaScript · Node.js · Supabase · PostgreSQL · RAG**
+`JavaScript` `Node.js` `Supabase` `PostgreSQL`
 
-## What I work with
+---
 
-Python, FastAPI, TypeScript, React, Node.js, PostgreSQL, Supabase, Docker, REST APIs, LLM integrations, RAG, and agent tool use. I care about evaluation, clear failure handling, security boundaries, and making systems practical to operate.
+## Beyond the repositories
 
-I also build user-facing products, including [Forma](https://trainwithforma.app) and [T3lem Code](https://t3lemcode.com), a hands-on coding education project.
+**[Forma](https://trainwithforma.app)** — a fitness application built end to end.
 
-## Background & contact
+**[T3lem Code](https://t3lemcode.com)** — a hands-on coding education project.
 
-Bachelor of Engineering in Software Engineering, Sichuan University. Based in Morocco; open to remote and international AI, backend, and full-stack roles. I work in English and French, speak Arabic natively, and have studied Mandarin to HSK 4.
+## Tools & approach
 
-[LinkedIn](https://www.linkedin.com/in/aymane-aitbelarbi/) · [Email](mailto:aymanesaid76@gmail.com)
+Python · FastAPI · TypeScript · React · Node.js · PostgreSQL · Supabase · Docker · REST APIs · LLM integrations
+
+I care about clear failure handling, security boundaries, useful evaluations, and software that's practical to operate.
+
+---
+
+Bachelor of Engineering in Software Engineering, Sichuan University. I work in English and French, speak Arabic natively, and have studied Mandarin to HSK 4.
