@@ -25,7 +25,7 @@ A movie-recommendation chatbot exploring hybrid retrieval, reciprocal rank fusio
 
 Python, FastAPI, TypeScript, React, Node.js, PostgreSQL, Supabase, Docker, REST APIs, LLM integrations, RAG, and agent tool use. I care about evaluation, clear failure handling, security boundaries, and making systems practical to operate.
 
-I also build user-facing products, including [Forma](https://trainwithforma.app) and [SuppsGoCom](https://suppsgocom.com).
+I also build user-facing products, including [Forma](https://trainwithforma.app) and [T3lem Code](https://t3lemcode.com), a hands-on coding education project.
 
 ## Background & contact
 
