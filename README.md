@@ -35,6 +35,6 @@ Built with JavaScript, Node.js, Supabase, and PostgreSQL.
 
 ## How I work
 
-I care about clear failure handling, security boundaries, useful evaluations, and software that's practical to operate. Day to day that means Python, FastAPI, TypeScript, React, Node.js, PostgreSQL, Supabase, Docker, REST APIs, and LLM integrations.
+I care about clear failure handling, security boundaries, useful evaluations, and software that's practical to operate. Day to day that means Python, FastAPI, TypeScript, React, Node.js, PostgreSQL, Supabase, Docker, REST APIs, LangChain, LangSmith, and LLM integrations.
 
 Bachelor of Engineering in Software Engineering, Sichuan University. I work in English and French, speak Arabic natively, and have studied Mandarin to HSK 4.
